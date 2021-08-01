@@ -1,0 +1,2 @@
+# sinemaoto
+python sinema otomasyonu 
